@@ -1,1 +1,1 @@
-# Integrate-Zscaler-with-Identity-Providers-IdPs-
+# Integrate Zscaler with Identity Providers (IdPs)
